@@ -12,11 +12,12 @@
   ],
   "routes": [
     {
-      "handle": "filesystem"
+      "src": "/sounds/.*",
+      "dest": "/sounds/$1",
+      "headers": { "cache-control": "maxage=31536000,immutable" }
     },
     {
-      "src": "/.*",
-      "dest": "index.html"
+      "handle": "filesystem"
     }
   ],
   "alias": [
