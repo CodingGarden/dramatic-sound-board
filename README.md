@@ -15,7 +15,7 @@ This app is built with [Svelte](https://svelte.dev/).
 npm install
 ```
 
-You can download the sounds [here](https://dramatic-sound-board.now.sh/sounds.zip) and place them in the `public` folder.
+You can download the sounds [here](https://dramatic-sound-board.s3.amazonaws.com/sounds.zip).
 
 ...then start [Rollup](https://rollupjs.org):
 

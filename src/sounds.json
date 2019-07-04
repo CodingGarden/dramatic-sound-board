@@ -1,33 +1,33 @@
 {
   "loops": [
     {
-      "file": "Anticipation.wav",
+      "file": "Anticipation.mp3",
       "name": "Anticipation"
     }
   ],
   "hits": [
     {
-      "file": "Bell Hit.wav",
+      "file": "Bell Hit.mp3",
       "name": "Bell Hit"
     },
     {
-      "file": "Dramatic Hit.wav",
+      "file": "Dramatic Hit.mp3",
       "name": "Dramatic Hit"
     },
     {
-      "file": "Far Hit.wav",
+      "file": "Far Hit.mp3",
       "name": "Far Hit"
     },
     {
-      "file": "Glitchy Hit.wav",
+      "file": "Glitchy Hit.mp3",
       "name": "Glitchy Hit"
     },
     {
-      "file": "Lingering Hit.wav",
+      "file": "Lingering Hit.mp3",
       "name": "Lingering Hit"
     },
     {
-      "file": "Low Hit.wav",
+      "file": "Low Hit.mp3",
       "name": "Low Hit"
     },
     {
@@ -35,7 +35,7 @@
       "name": "Small Hit"
     },
     {
-      "file": "Soft Hit.wav",
+      "file": "Soft Hit.mp3",
       "name": "Soft Hit"
     }
   ],
@@ -73,21 +73,21 @@
   ],
   "swells": [
     {
-      "file": "Dramatic Swell.wav",
+      "file": "Dramatic Swell.mp3",
       "name": "Dramatic Swell"
     },
     {
-      "file": "Swell.wav",
+      "file": "Swell.mp3",
       "name": "Swell"
     }
   ],
   "rise": [
     {
-      "file": "Cinematic Rise.wav",
+      "file": "Cinematic Rise.mp3",
       "name": "Cinematic Rise"
     },
     {
-      "file": "Rise.wav",
+      "file": "Rise.mp3",
       "name": "Rise"
     }
   ]
