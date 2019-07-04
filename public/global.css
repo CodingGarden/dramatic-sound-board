@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  width: 96vw;
+  height: 98vh;
+  background: #000F08;
+  font-family: "Allerta Stencil", sans-serif;
+  box-sizing: border-box;
+  -webkit-user-select: none; /* Safari 3.1+ */
+  -moz-user-select: none; /* Firefox 2+ */
+  -ms-user-select: none; /* IE 10+ */
+  user-select: none; /* Standard syntax */
+}

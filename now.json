@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "name": "dramatic-sound-board",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": {
+        "distDir": "public"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/.*",
+      "dest": "index.html"
+    }
+  ],
+  "alias": [
+    "dramatic-sound-board"
+  ]
+}

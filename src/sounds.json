@@ -1,0 +1,94 @@
+{
+  "loops": [
+    {
+      "file": "Anticipation.wav",
+      "name": "Anticipation"
+    }
+  ],
+  "hits": [
+    {
+      "file": "Bell Hit.wav",
+      "name": "Bell Hit"
+    },
+    {
+      "file": "Dramatic Hit.wav",
+      "name": "Dramatic Hit"
+    },
+    {
+      "file": "Far Hit.wav",
+      "name": "Far Hit"
+    },
+    {
+      "file": "Glitchy Hit.wav",
+      "name": "Glitchy Hit"
+    },
+    {
+      "file": "Lingering Hit.wav",
+      "name": "Lingering Hit"
+    },
+    {
+      "file": "Low Hit.wav",
+      "name": "Low Hit"
+    },
+    {
+      "file": "Small Hit.mp3",
+      "name": "Small Hit"
+    },
+    {
+      "file": "Soft Hit.wav",
+      "name": "Soft Hit"
+    }
+  ],
+  "music": [
+    {
+      "file": "Ambient Hum.mp3",
+      "name": "Ambient Hum"
+    },
+    {
+      "file": "Cataclysmic Molten Core.mp3",
+      "name": "Cataclysmic Molten Core"
+    },
+    {
+      "file": "Extinction Level Event.mp3",
+      "name": "Extinction Level Event"
+    },
+    {
+      "file": "Final Boss.mp3",
+      "name": "Final Boss"
+    },
+    {
+      "file": "Meteor.mp3",
+      "name": "Meteor"
+    }
+  ],
+  "stings": [
+    {
+      "file": "Dead Reckoning.mp3",
+      "name": "Dead Reckoning"
+    },
+    {
+      "file": "Hero Theme.mp3",
+      "name": "Hero Theme"
+    }
+  ],
+  "swells": [
+    {
+      "file": "Dramatic Swell.wav",
+      "name": "Dramatic Swell"
+    },
+    {
+      "file": "Swell.wav",
+      "name": "Swell"
+    }
+  ],
+  "rise": [
+    {
+      "file": "Cinematic Rise.wav",
+      "name": "Cinematic Rise"
+    },
+    {
+      "file": "Rise.wav",
+      "name": "Rise"
+    }
+  ]
+}
